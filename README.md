@@ -1,2 +1,20 @@
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoBigLikeMe" /> </div>
-<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### 🎮🕹 Games
+[<img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />](https://steamcommunity.com/profiles/76561198429072902/)
+
+<img src="https://imgur.com/rilHVxA.png"/>
