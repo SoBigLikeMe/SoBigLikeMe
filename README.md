@@ -3,7 +3,7 @@
 
 
 ### 千里逢迎 👋
-<h3>目前大三，考研中！！！</h3><br>
+<h3>目前大四，考研中！！！</h3><br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoBigLikeMe)](https://github.com/anuraghazra/github-readme-stats)
 
